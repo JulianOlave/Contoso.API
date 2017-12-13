@@ -1,0 +1,5 @@
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.deps.json
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.json
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.dev.json
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.csprojResolveAssemblyReference.cache
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.AssemblyInfo.cs
