@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.deps.json
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.json
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.dev.json
@@ -9,3 +10,10 @@ C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.AssemblyInfo.cs
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.dll
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.pdb
+=======
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.deps.json
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.json
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.dev.json
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.csprojResolveAssemblyReference.cache
+C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.AssemblyInfo.cs
+>>>>>>> 223a9e8dea1243215fe28d47d7bb07fc86b39e36
