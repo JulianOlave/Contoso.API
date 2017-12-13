@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.deps.json
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.json
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.dev.json
@@ -10,6 +11,19 @@ C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.AssemblyInfo.cs
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.dll
 C:\Users\Izaak\Desktop\Primer Clase\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.pdb
+=======
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.deps.json
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.json
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.dev.json
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.dll
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.AssemblyInfoInputs.cache
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.AssemblyInfo.cs
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.pdb
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.dll
+C:\Users\Roberto\Desktop\Ejemplos\Clases\DevFriends\AplicacionPractica.API\Contoso.API\Contoso.API\obj\Debug\netcoreapp2.0\Contoso.API.pdb
+>>>>>>> 61d7fd6b21a4d9e5b10d7124c7c4bfbcf96157f2
 =======
 C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.deps.json
 C:\Users\mcristales\Documents\GitHub\Contoso.API\Contoso.API\bin\Debug\netcoreapp2.0\Contoso.API.runtimeconfig.json

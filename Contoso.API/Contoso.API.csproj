@@ -9,6 +9,14 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+=======
+>>>>>>> 223a9e8dea1243215fe28d47d7bb07fc86b39e36
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
 
